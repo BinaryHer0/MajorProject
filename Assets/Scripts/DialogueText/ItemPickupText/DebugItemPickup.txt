@@ -1,0 +1,4 @@
+You opened the chest...
+You found "DEBUG ITEM"
+You put it in your inventory.
+You close the chest.

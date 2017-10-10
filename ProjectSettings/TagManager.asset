@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hero
+  - Enemy
+  - NPC
+  - World Posts
+  - Roaming Enemies
+  - DeadHero
+  - DeadEnemy
+  - DetectorTiles
+  - ForestRegion
+  - NPC Quest
+  - NPCQuest1
+  - ForestCave
+  - TutQuest
+  - TutQuest1
+  - sideQuest
+  - sideQuest1
+  - Slot
+  - Shopkeeper
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3159262625
+    locked: 0
+  - name: Foreground
+    uniqueID: 1295312751
+    locked: 0
+  - name: Items
+    uniqueID: 1796186051
+    locked: 0
+  - name: Units
+    uniqueID: 2268451225
+    locked: 0
+  - name: HousingObjects
+    uniqueID: 131334055
+    locked: 0
+  - name: WorldObjects
+    uniqueID: 3157486893
+    locked: 0

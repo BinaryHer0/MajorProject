@@ -1,0 +1,3 @@
+Press 'Space Bar' to open up your Character Menu.
+Here you can adjust your stats, equip armour and manage your inventory.
+The others will have more information for you.

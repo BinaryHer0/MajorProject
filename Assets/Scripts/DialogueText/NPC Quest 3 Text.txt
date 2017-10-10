@@ -1,0 +1,5 @@
+You are now inside the dungeon.
+Find what has caused the disturbance.
+
+Be on alert. This is a strong enemy - classification: boss type.
+Prepare yourself!

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Tiled2Unity generated xml data-->
+<!--Do not modify by hand-->
+<!--Last exported: 5/06/2017 2:40:55 PM-->
+<Tiled2Unity version="1.0.11.2">
+  <AssignMaterial mesh="mesh_0001" material="GrassTexture_003" />
+  <Prefab name="Version 5" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="1" numTilesWide="1" numTilesHigh="1" tileWidth="1" tileHeight="1" exportScale="1" mapWidthInPixels="1" mapHeightInPixels="1" backgroundColor="#808080">
+    <GameObject name="Tile Layer 1" x="0" y="0" z="0">
+      <TileLayer opacity="1" offsetX="0" offsetY="0" />
+      <GameObject name="GrassTexture_003" copy="mesh_0001" sortingLayerName="" sortingOrder="0" opacity="1" />
+    </GameObject>
+  </Prefab>
+  <ImportMesh filename="Version 5.obj">IyBXYXZlZnJvbnQgT0JKIGZpbGUgYXV0b21hdGljYWxseSBnZW5lcmF0ZWQgYnkgVGlsZWQyVW5pdHkNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA0KQ0KdiAwIC0xIDANCnYgLTEgLTEgMA0KdiAtMSAwIDANCnYgMCAwIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMC41MDAxMjIxIDAuNjg3NjIyMQ0KdnQgMC41NjIzNzc5IDAuNjg3NjIyMQ0KdnQgMC41NjIzNzc5IDAuNzQ5ODc3OQ0KdnQgMC41MDAxMjIxIDAuNzQ5ODc3OQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgR3JvdXBzIChDb3VudCA9IDEpDQoKZyBtZXNoXzAwMDEKZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQoNCg==</ImportMesh>
+  <InternalTexture assetPath="Assets/GrassTexture_003.png" materialName="GrassTexture_003" />
+</Tiled2Unity>

@@ -1,0 +1,3 @@
+Hello, are you looking for some help? I'll explain the basic movement.
+General moving consist of the 'W - A - S -D' keys or '< - ^ - > - v' keys.
+If you want other tips talk to the others.

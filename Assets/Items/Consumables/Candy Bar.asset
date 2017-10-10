@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7af55c3ea8a12146868b9f1af01f636, type: 3}
+  m_Name: Candy Bar
+  m_EditorClassIdentifier: 
+  itemName: Candy Bar
+  itemDescription: A delicious chocolate flavoured Candy Bar that will make you feel
+    energized! +10 Stamina
+  itemID: 5
+  sprite: {fileID: 21300000, guid: 3ca5855bd66bf0444a3bc9336c12bb55, type: 3}
+  itemValue: 5
+  itemStack: 0
+  consumable: 1
+  stamina: 10
+  agility: 0
+  defence: 0
+  health: 0
+  attack: 0

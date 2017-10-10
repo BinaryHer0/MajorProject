@@ -1,0 +1,5 @@
+Okay listen up.
+There are two types of Sign Posts that you will encounter to interact with them press either the 'Enter' or 'E' key.
+The first type is the Generic type which will give you helpful tips/information while the second type are the Danger types.
+These types will notify you that you will be running into a random encounter field, so be careful.
+If you want other tips talk to the others.

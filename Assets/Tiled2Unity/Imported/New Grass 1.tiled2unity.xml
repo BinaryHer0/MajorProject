@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Tiled2Unity generated xml data-->
+<!--Do not modify by hand-->
+<!--Last exported: 5/06/2017 2:48:24 PM-->
+<Tiled2Unity version="1.0.11.2">
+  <AssignMaterial mesh="mesh_0001" material="GrassTexture_003" />
+  <Prefab name="New Grass 1" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="1" numTilesWide="5" numTilesHigh="5" tileWidth="4" tileHeight="4" exportScale="1" mapWidthInPixels="20" mapHeightInPixels="20" backgroundColor="#808080">
+    <GameObject name="Tile Layer 1" x="0" y="0" z="0">
+      <TileLayer opacity="1" offsetX="0" offsetY="0" />
+      <GameObject name="GrassTexture_003" copy="mesh_0001" sortingLayerName="" sortingOrder="0" opacity="1" />
+    </GameObject>
+  </Prefab>
+  <ImportMesh filename="New Grass 1.obj">IyBXYXZlZnJvbnQgT0JKIGZpbGUgYXV0b21hdGljYWxseSBnZW5lcmF0ZWQgYnkgVGlsZWQyVW5pdHkNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSAzNikNCnYgLTE2IC00IDANCnYgLTIwIC00IDANCnYgLTIwIDAgMA0KdiAtMTYgMCAwDQp2IC0xMiAtNCAwDQp2IC0xMiAwIDANCnYgLTggLTQgMA0KdiAtOCAwIDANCnYgLTQgLTQgMA0KdiAtNCAwIDANCnYgMCAtNCAwDQp2IDAgMCAwDQp2IC0xNiAtOCAwDQp2IC0yMCAtOCAwDQp2IC0xMiAtOCAwDQp2IC04IC04IDANCnYgLTQgLTggMA0KdiAwIC04IDANCnYgLTE2IC0xMiAwDQp2IC0yMCAtMTIgMA0KdiAtMTIgLTEyIDANCnYgLTggLTEyIDANCnYgLTQgLTEyIDANCnYgMCAtMTIgMA0KdiAtMTYgLTE2IDANCnYgLTIwIC0xNiAwDQp2IC0xMiAtMTYgMA0KdiAtOCAtMTYgMA0KdiAtNCAtMTYgMA0KdiAwIC0xNiAwDQp2IC0xNiAtMjAgMA0KdiAtMjAgLTIwIDANCnYgLTEyIC0yMCAwDQp2IC04IC0yMCAwDQp2IC00IC0yMCAwDQp2IDAgLTIwIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSA0KQ0KdnQgMC4zMTI2MjIxIDAuNzUwMTIyMQ0KdnQgMC41NjIzNzc5IDAuNzUwMTIyMQ0KdnQgMC41NjIzNzc5IDAuOTk5ODc3OQ0KdnQgMC4zMTI2MjIxIDAuOTk5ODc3OQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgR3JvdXBzIChDb3VudCA9IDEpDQoKZyBtZXNoXzAwMDEKZiAxLzEvMSAyLzIvMSAzLzMvMSA0LzQvMQpmIDUvMS8xIDEvMi8xIDQvMy8xIDYvNC8xCmYgNy8xLzEgNS8yLzEgNi8zLzEgOC80LzEKZiA5LzEvMSA3LzIvMSA4LzMvMSAxMC80LzEKZiAxMS8xLzEgOS8yLzEgMTAvMy8xIDEyLzQvMQpmIDEzLzEvMSAxNC8yLzEgMi8zLzEgMS80LzEKZiAxNS8xLzEgMTMvMi8xIDEvMy8xIDUvNC8xCmYgMTYvMS8xIDE1LzIvMSA1LzMvMSA3LzQvMQpmIDE3LzEvMSAxNi8yLzEgNy8zLzEgOS80LzEKZiAxOC8xLzEgMTcvMi8xIDkvMy8xIDExLzQvMQpmIDE5LzEvMSAyMC8yLzEgMTQvMy8xIDEzLzQvMQpmIDIxLzEvMSAxOS8yLzEgMTMvMy8xIDE1LzQvMQpmIDIyLzEvMSAyMS8yLzEgMTUvMy8xIDE2LzQvMQpmIDIzLzEvMSAyMi8yLzEgMTYvMy8xIDE3LzQvMQpmIDI0LzEvMSAyMy8yLzEgMTcvMy8xIDE4LzQvMQpmIDI1LzEvMSAyNi8yLzEgMjAvMy8xIDE5LzQvMQpmIDI3LzEvMSAyNS8yLzEgMTkvMy8xIDIxLzQvMQpmIDI4LzEvMSAyNy8yLzEgMjEvMy8xIDIyLzQvMQpmIDI5LzEvMSAyOC8yLzEgMjIvMy8xIDIzLzQvMQpmIDMwLzEvMSAyOS8yLzEgMjMvMy8xIDI0LzQvMQpmIDMxLzEvMSAzMi8yLzEgMjYvMy8xIDI1LzQvMQpmIDMzLzEvMSAzMS8yLzEgMjUvMy8xIDI3LzQvMQpmIDM0LzEvMSAzMy8yLzEgMjcvMy8xIDI4LzQvMQpmIDM1LzEvMSAzNC8yLzEgMjgvMy8xIDI5LzQvMQpmIDM2LzEvMSAzNS8yLzEgMjkvMy8xIDMwLzQvMQoNCg==</ImportMesh>
+  <InternalTexture assetPath="Assets/GrassTexture_003.png" materialName="GrassTexture_003" />
+</Tiled2Unity>

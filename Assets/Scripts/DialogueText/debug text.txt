@@ -1,0 +1,4 @@
+Hi there,
+I'm Hiiro! Please to meet you.
+This is a test debug log.
+Goodbye!

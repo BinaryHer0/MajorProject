@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7af55c3ea8a12146868b9f1af01f636, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  itemName: Apple
+  itemDescription: A Crisp, Red Apple that makes you feel better! +10 Health
+  itemID: 0
+  sprite: {fileID: 21300000, guid: 114fe8786210b9046af37d502646cb55, type: 3}
+  itemValue: 1
+  itemStack: 0
+  consumable: 1
+  stamina: 0
+  agility: 0
+  defence: 0
+  health: 10
+  attack: 0

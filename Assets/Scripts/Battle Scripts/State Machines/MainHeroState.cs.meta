@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: be1e5bc9ccf0a66429ae8cc819a6ddcd
+timeCreated: 1500905167
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerWorld: {fileID: 1219336285567300, guid: 7e87e18862c945e4ebfc4852b6e31841,
+      type: 2}
+  - selector: {instanceID: 0}
+  - enemyToAttack: {instanceID: 0}
+  - heroPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
